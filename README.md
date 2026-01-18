@@ -48,7 +48,7 @@ Le **Remote Sensing Image Captioning Dataset (RSICD)** contient des images satel
 - **Nombre total de captions** : 43 670 (pour le train set)
 - **Moyenne de captions par image** : ~5
 - **Longueur moyenne des captions** : Variable (max observé ~36 tokens)
-- **Taille du vocabulaire** : 1 434 mots (fréquence minimale : 3)
+- **Taille du vocabulaire** : 1 434 mots (fréquence minimale : 2)
 
 ### Preprocessing
 - **Résolution des images** : 224×224 pixels
